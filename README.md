@@ -9,6 +9,5 @@
 
 4. sudo swapon //swapfile Enable the swap
 
-How To Add Swap on Ubuntu 14.04 [HERE ](https://www.digitalocean.com/community/tutorials/how-to-add-swap-on-ubuntu-14-04).
-
 ```
+How To Add Swap on Ubuntu 14.04 [HERE](https://www.digitalocean.com/community/tutorials/how-to-add-swap-on-ubuntu-14-04).
