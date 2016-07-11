@@ -1,7 +1,7 @@
 # Add-Swap-File-For-Node-Server
 
 ```
-1. sudo fallocate -l 4G //swapfile Create a 4 gigabyte swapfile
+1. sudo fallocate -l 4G /swapfile //swapfile Create a 4 gigabyte swapfile
 
 2. sudo chmod 600 //swapfile Secure the swapfile by restricting access to root
 
